@@ -1,7 +1,7 @@
 ### Programmers
 
 [Programmers](https://programmers.co.kr) Programmers.co.kr
-from 2020.12-2020.06
+from 2020.12-2021.06
 
 1) Korean PS & Dev-matching community
 2) C99 & Python & JS & Kotlin used
